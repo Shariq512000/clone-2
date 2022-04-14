@@ -1,0 +1,24 @@
+.sp{color: rgb(53, 51, 51); size: 72px;}
+a {text-decoration: none; }
+#first {background-color: rgb(70, 134, 240);}
+.top{display: flex; box-shadow: 5px -5px 5px 5px; margin: 0px; color: #5F6368; padding: 10px; height: 56px;}
+.first{font-size: 48px; color: #5F6368; text-align: left;}
+.dow{background-color: rgb(26, 115, 232); padding: 15px; border: 0px; padding-left: 40px; padding-right: 40px;}
+.pic{background-image: url(./video/unnamed.png);}
+body{font-family: sans-serif; color: #5F6368; margin: 0px;}
+.last{margin: 200px; padding: 0px; border-radius: 0%;}
+.beg{background-color: #4285f4; border-radius: 26px; color: #fff; margin: 12px; padding: 14px 25px 32px 30px; vertical-align: middle; font-size: .875rem; line-height: 1.25rem; font-weight: 400; letter-spacing: .01786em; height: 32px; border: 0px;}
+.int{background-color: #fbbc04; border-radius: 26px; color: #fff; margin: 12px; padding: 14px 25px 32px 30px; vertical-align: middle; font-size: .875rem; line-height: 1.25rem; font-weight: 400; letter-spacing: .01786em; height: 32px; border: 0px;}
+.adv{background-color: #ea4335; border-radius: 26px; color: #fff; margin: 12px; padding: 14px 25px 32px 30px; vertical-align: middle; font-size: .875rem; line-height: 1.25rem; font-weight: 400; letter-spacing: .01786em; height: 32px; border: 0px;}
+.fom{display: flex; flex-direction: row; font-size: 17px; color: black;}
+.con{display: flex; flex-direction: row;max-height: 50%;}
+.sec{font-size: 20px; padding-top: 18px;}
+.con>video{width: 100%; max-width: 625px; display: inline-block; vertical-align: middle;}
+.mar{margin-bottom: 10px; padding-top: 50px; font-size: 45px; padding-bottom: 25px; font-family: Arial, Helvetica, sans-serif;}
+.para{margin-left: 25px;margin-top: 35px;}
+.top>img{margin-left: 30px;}
+h1{font-size: 48px;}
+.top>p{font-size: 22px;}
+.top>a{padding: 15px; padding-top: 25px;}
+.ho{margin-left: 30px;}
+.uol{padding-bottom: 50px;}
