@@ -13,12 +13,14 @@ body{font-family: sans-serif; color: #5F6368; margin: 0px;}
 .fom{display: flex; flex-direction: row; font-size: 17px; color: black;}
 .con{display: flex; flex-direction: row;max-height: 50%;}
 .sec{font-size: 20px; padding-top: 18px;}
-.con>video{width: 100%; max-width: 625px; display: inline-block; vertical-align: middle;}
+.con>video{display: flex; align-self: flex-start; vertical-align: baseline; flex-grow: 1; width: 720px; height: 600px; margin-right: 0px; margin-top: 1px; padding: 0px;}
 .mar{margin-bottom: 10px; padding-top: 50px; font-size: 45px; padding-bottom: 25px; font-family: Arial, Helvetica, sans-serif;}
-.para{margin-left: 25px;margin-top: 35px;}
+.para{margin-left: 25px;margin-top: 45px;}
 .top>img{margin-left: 30px;}
 h1{font-size: 48px;}
 .top>p{font-size: 22px;}
 .top>a{padding: 15px; padding-top: 25px;}
 .ho{margin-left: 30px;}
 .uol{padding-bottom: 50px;}
+/* .con>p{display: flex; flex-grow: 4; display: inline;} */
+/* .con>video{display: flex; flex-grow: 1; width: 1000px;} */
